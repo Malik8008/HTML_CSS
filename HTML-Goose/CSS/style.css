@@ -1,0 +1,38 @@
+body{
+    background-color: darkkhaki;
+}
+
+.images{
+    text-align: center;
+}
+img{
+    width: 170;
+    height: 170;
+    border-radius: 100%;
+}
+
+h1{
+    text-align: center;
+}
+hr{
+    background-color: aqua;
+    border: 1px solid aqua;
+    width: 60%;
+}
+
+.firsttitle strong,
+.secondtitle strong,
+.thirdtitle
+ strong{
+    color: brown;
+}
+
+.firsttitle p,strong{
+    margin-left: 280px;
+}
+.secondtitle p,strong{
+    margin-left: 280px;
+}
+.thirdtitle pre,strong{
+    margin-left: 280px;
+}
